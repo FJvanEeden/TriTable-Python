@@ -1,8 +1,8 @@
 # TriTable-Python
 Nested loop example to create a right slanting pyramid of doubling numbers. 
 
-Example:
 
+Example:
 1
 2 4
 3 6 9
